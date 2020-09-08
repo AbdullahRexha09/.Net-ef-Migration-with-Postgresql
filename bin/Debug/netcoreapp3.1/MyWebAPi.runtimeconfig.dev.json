@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\AltimaPC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AltimaPC\\.nuget\\packages"
+    ]
+  }
+}
